@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Title</key>
+    <string>Hi $FULLNAME!</string>
+    <key>Logo</key>
+    <string>/Library/TechItOut/TechItOut_logo_512.png</string>
+    <key>LogoDarkMode</key>
+    <string>/Library/TechItOut/TechItOut_logo_512.png</string>
+    <key>NotificationIcon</key>
+    <string>/Library/TechItOut/TechItOut_logo_512.png</string>
+    <key>StatusBarIconNotifierEnabled</key>
+    <true/>
+    <key>CustomColor</key>
+    <string>#000000</string>
+    <key>CustomColorDarkMode</key>
+    <string>#000000</string>
+    <key>HideFirstRow</key>
+    <false/>
+    <key>HideSecondRow</key>
+    <true/>
+    <key>ShowWelcomeScreen</key>
+    <true/>
+    <key>FooterText</key>
+    <string>Brought to you by the IT dept ❤️</string>
+    <key>OpenAtLogin</key>
+    <false/>
+    <key>InfoItemOne</key>
+    <string>ComputerName</string>
+    <key>InfoItemTwo</key>
+    <string>MacOSVersion</string>
+    <key>InfoItemThree</key>
+    <string>Storage</string>
+    <key>InfoItemFour</key>
+    <string>Uptime</string>
+    <key>InfoItemFive</key>
+    <string>ExtensionA</string>
+    <key>InfoItemSix</key>
+    <string>ExtensionB</string>
+    <key>UptimeDaysLimit</key>
+    <integer>1</integer>
+    <key>StorageLimit</key>
+    <integer>3</integer>
+    <key>PasswordExpiryLimit</key>
+    <integer>0</integer>
+    <key>PasswordType</key>
+    <string>Apple</string>
+    <key>FirstRowTitleLeft</key>
+    <string>Submit A Ticket</string>
+    <key>FirstRowTypeLeft</key>
+    <string>URL</string>
+    <key>FirstRowLinkLeft</key>
+    <string>https://support.OrgName.com</string>
+    <key>FirstRowSymbolLeft</key>
+    <string>ticket</string>
+    <key>FirstRowTitleMiddle</key>
+    <string>Self Service</string>
+    <key>FirstRowTypeMiddle</key>
+    <string>App</string>
+    <key>FirstRowLinkMiddle</key>
+    <string>com.jamfsoftware.selfservice.mac</string>
+    <key>FirstRowSymbolMiddle</key>
+    <string>cart</string>
+    <key>FirstRowTitleRight</key>
+    <string>MyApps</string>
+    <key>FirstRowTypeRight</key>
+    <string>URL</string>
+    <key>FirstRowLinkRight</key>
+    <string>https://myapps.Microsoft.com</string>
+    <key>FirstRowSymbolRight</key>
+    <string>arrow.up.forward.app</string>
+    <key>ExtensionTitleA</key>
+    <string>Last Check-in</string>
+    <key>ExtensionSymbolA</key>
+    <string>waveform.path.ecg</string>
+    <key>ExtensionTypeA</key>
+    <string>DistributedNotification</string>
+    <key>ExtensionLinkA</key>
+    <string>/Library/TechItOut/Scripts/SupportApp-ExtensionA-PolicyCheckin.sh</string>
+    <key>ExtensionTitleB</key>
+    <string>Inventory Update</string>
+    <key>ExtensionSymbolB</key>
+    <string>shippingbox</string>
+    <key>ExtensionTypeB</key>
+    <string>DistributedNotification</string>
+    <key>ExtensionLinkB</key>
+    <string>/Library/TechItOut/Scripts/SupportApp-ExtensionB-InventoryUpdate.sh</string>
+    <key>OnAppearAction</key>
+    <string>/Library/TechItOut/Scripts/SupportApp-ExtAB-Update.sh</string>
+  </dict>
+</plist>
