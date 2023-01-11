@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Service Management - Managed Login Items</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.servicemanagement.48558EFD-3D79-4352-B09A-80DB54D7040B</string>
+			<key>PayloadType</key>
+			<string>com.apple.servicemanagement</string>
+			<key>PayloadUUID</key>
+			<string>5DC3ADEC-65F5-4856-AC44-54F35487092D</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Rules</key>
+			<array>
+				<dict>
+					<key>Comment</key>
+					<string>Root3</string>
+					<key>RuleType</key>
+					<string>TeamIdentifier</string>
+					<key>RuleValue</key>
+					<string>98LJ4XBGYK</string>
+					<key>TeamIdentifier</key>
+					<string>98LJ4XBGYK</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Sets the managed login item for Support</string>
+	<key>PayloadDisplayName</key>
+	<string>Managed Login Items - Support App</string>
+	<key>PayloadIdentifier</key>
+	<string>3BDF6EF6-0334-4B3A-AC7E-6CECCA33BE31</string>
+	<key>PayloadOrganization</key>
+	<string>Lululemon Athletica</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>0CA4A01A-7341-458D-9031-3A9EA35C3625</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
